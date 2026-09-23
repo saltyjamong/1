@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>전생연분 前生緣分 · 작품 소개</title>
+<title>전생연분 · 작품 소개</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Hahmlet:wght@300;400;500;600;700;800&family=Noto+Serif+KR:wght@300;400;500;600;700&family=Gowun+Dodum&display=swap" rel="stylesheet">
@@ -449,12 +449,12 @@ img{display:block;max-width:100%}
       <div class="reveal">
         <p class="eyebrow">캐릭터</p>
         <h2 class="char-name">
-          <span class="hanja">玄 潭</span>
-          <span class="ko">현담</span>
+          <span class="english">LeeSerin</span>
+          <span class="ko">이세린</span>
         </h2>
-        <p class="char-tag">남성 · 용 · 당신의 반려</p>
+        <p class="char-tag">여성 · 귀신 · 당신의 섹스 파트너(?)</p>
       </div>
-      <p class="char-blurb reveal" data-d="1">검은 연못 곁에서 주워 든 한 마리의 용. <em>당신 앞에서는 더없이 다정하고</em>, 그 밖의 모든 존재에겐 서늘하리만치 까칠하다. 늘 무언가를 챙겨 와 당신의 손에 쥐여 주는, 오만하고도 충직한 용.</p>
+      <p class="char-blurb reveal" data-d="1">매일 밤 자위로 악귀를 퇴마하는 당신. <em>그리고 당신의 정기에 이끌려 만원 지하철까지 따라온 알몸의 색귀(色鬼)</em>, 이세린. 그녀는 공공장소에서 멋대로 당신의 바지춤을 풀고 좆을 꺼내드는데...</p>
     </div>
 
     <!-- GROWTH SHOWCASE -->
