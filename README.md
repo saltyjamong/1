@@ -490,12 +490,12 @@ img{display:block;max-width:100%}
     </div>
     <div class="pref reveal" data-d="2">
       <div class="like">
-        <p class="lab">선호</p>
-        <p>당신 · 단것(호박죽, 벌꿀) · 둥글고 번들거리는 것</p>
+        <p class="lab">좋아하는 것</p>
+        <p>당신 · 딸기 생크림 케이크 · 섹스</p>
       </div>
       <div class="dislike">
-        <p class="lab">불호</p>
-        <p>당신 외의 인간 · 다른 짐승</p>
+        <p class="lab">싫어하는 것</p>
+        <p>무시 당하는 것</p>
       </div>
     </div>
   </div>
@@ -505,14 +505,14 @@ img{display:block;max-width:100%}
 <section class="section section--night rule-top">
   <div class="wrap past-wrap">
     <div class="head reveal" style="margin-bottom:0">
-      <p class="eyebrow">과거 · 過去</p>
-      <h2>알이 산에 닿기까지</h2>
-      <p>현담이 당신의 품에 이르기 전, 검은 연못의 산에는 한 마리 용의 마지막 선택이 묻혀 있었다.</p>
+      <p class="eyebrow">과거</p>
+      <h2>전생의 연인</h2>
+      <p>전생의 기억이 없는 이세린은 무슨 원한이 남아서 이승을 떠도는 걸까?</p>
     </div>
     <div class="past reveal" data-d="1">
       <div class="moment">
         <span class="ord">壹</span>
-        <p>원룡이던 <b>어미 용</b>은 제 자리를 노리는 악룡을 피해, 인간계의 산속에 알 하나를 낳아 숨겼다.</p>
+        <p></p>
       </div>
       <div class="moment">
         <span class="ord">貳</span>
