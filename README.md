@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>용을 줍다 · 작품 소개</title>
+<title>전생연분 前生緣分 · 작품 소개</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Hahmlet:wght@300;400;500;600;700;800&family=Noto+Serif+KR:wght@300;400;500;600;700&family=Gowun+Dodum&display=swap" rel="stylesheet">
