@@ -127,7 +127,7 @@ img{display:block;max-width:100%}
     </div>
 
     
-<img src="![](" alt="character images" width="300">
+<img src="![](https://raw.githubusercontent.com/saltyjamong/1/refs/heads/main/2.4__artist_maccha(mochancc)__%2C%20%7B%7B2.15__artist_naoki%20(2rzmcaizerails6)__%7D%7D%2C%201.2_%20s-2834616378.png)" alt="character images" width="300">
 
     
 
