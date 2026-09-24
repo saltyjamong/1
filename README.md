@@ -119,7 +119,6 @@ img{display:block;max-width:100%}
       <div class="reveal">
         <p class="eyebrow">캐릭터</p>
         <h2 class="char-name">
-          <span class="english">LeeSerin</span>
           <span class="ko">이세린</span>
         </h2>
         <p class="char-tag">여성 · 귀신 · 당신의 섹스 파트너(?)</p>
@@ -128,8 +127,7 @@ img{display:block;max-width:100%}
     </div>
 
     
-<img src="1/2.4__artist_maccha(mochancc)__, {{2.15__artist_naoki (2rzmcaizerails6)__}}, 1.2_ s-2834616378.png" alt="character images">
-<img src="1/2.4__artist_maccha(mochancc)__, {{2.15__artist_naoki (2rzmcaizerails6)__}}, 1.2_ s-2834616378.png" alt="character images" width="300">
+<img src="![](" alt="character images" width="300">
 
     
 
