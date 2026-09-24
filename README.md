@@ -126,6 +126,11 @@ img{display:block;max-width:100%}
       </div>
       <p class="char-blurb reveal" data-d="1">변태 귀신은 못 말려!</p>
     </div>
+
+    
+<img src="images/character.jpg" alt="character images">
+<img src="images/character.jpg" alt="character images" width="300">
+
     
 
     <!-- TRAITS -->
