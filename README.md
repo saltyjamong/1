@@ -128,8 +128,8 @@ img{display:block;max-width:100%}
     </div>
 
     
-<img src="images/character.jpg" alt="character images">
-<img src="images/character.jpg" alt="character images" width="300">
+<img src="1/2.4__artist_maccha(mochancc)__, {{2.15__artist_naoki (2rzmcaizerails6)__}}, 1.2_ s-2834616378.png" alt="character images">
+<img src="1/2.4__artist_maccha(mochancc)__, {{2.15__artist_naoki (2rzmcaizerails6)__}}, 1.2_ s-2834616378.png" alt="character images" width="300">
 
     
 
