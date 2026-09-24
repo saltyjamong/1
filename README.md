@@ -104,7 +104,7 @@ img{display:block;max-width:100%}
   <div class="wrap intro-grid">
     <div class="reveal">
       <p class="eyebrow">들어가며</p>
-      <p class="lead">하늘과 땅, 사람의 세상을 <em>용</em>이 다스리던 시절.<br>그 한 마리가 당신의 품으로 굴러떨어졌다.</p>
+      <p class="lead">무당의 자식으로 태어났을 적부터 당신의 눈앞엔 남들에겐 보이지 않는, 원한이 맺혀 이승을 떠나지 못한 <em>귀신</em>이 보이기 시작한다.<br>그 한 마리가 당신의 품으로 굴러떨어졌다.</p>
     </div>
     <div class="intro-body reveal" data-d="1">
       <p>왕은 용의 심기를 거스르지 않으려 끊임없이 제사를 올리고, 사람들은 <strong>약초와 쌀, 작물</strong>로 거래하며 살아간다. 을사년의 피바람이 한양을 휩쓸고 간 뒤, 살아남은 자들은 도성 밖으로 흩어졌다.</p>
